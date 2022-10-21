@@ -1,0 +1,16 @@
+.body {
+    background-color: bisque;
+}
+
+.heading.one{
+    text-align: center;
+}
+
+.paragraph {
+    text-align: center;
+}
+
+.ulist {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: chocolate;
+}
