@@ -1,0 +1,14 @@
+.body {
+    background-color: rgb(165, 125, 92)
+}
+
+img {
+    height: auto;
+    width: 380px;
+}
+
+.header2 {
+    color: brown;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+}
